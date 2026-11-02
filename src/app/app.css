@@ -1,0 +1,3 @@
+/* App stylesheet entry: BoardUI system + Fido brand layer. */
+@import "../styles/globals.css";
+@import "../styles/brand.css";
